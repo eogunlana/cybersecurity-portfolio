@@ -2,9 +2,9 @@
 Welcome to my Portfolio. This repository showcases the projects I completed during the Light House Labs Immersive Bootcamp
 A collection of cybersecurity projects from LHL's Cybersecurity Immersive Bootcamp
 ## Projects 
-**Network Aministration**: For this project, I created a report that included information about the devices in my Lab environment. I used Nmap and Wireshark to discover details about each device, double-checking on the devices themselves. 
+**Network Aministration**: In this project, I created a report that included information about the devices in my Lab environment. I used Nmap and Wireshark to discover details about each device, double-checking on the devices themselves. 
 **Report on Risks and Vulnerabilities**: In this project, I created a report that provided recommendations on sensors that should be monitored, associating the sensors with well known IOCs for the organization in thecase study. The report explains what sensors were used, prioritizing them and connecting them to IoCs, threats, and vulnerabilities. 
-**Log Monitoring Workflow**: For this project, I applied programming tools and commands to establish a workflow to monitor unusual traffic. 
+**Log Monitoring Workflow**: In this project, I applied programming tools and commands to establish a workflow to monitor unusual traffic. 
 **Playbook for Cat and Box Scenario**: In this project, I created a custom playbook using the NIST Incident Response Lifecycle as well as guidelines shared by CISA for developing playbooks meant for incident response. 
 **Risk Management Case Study**: In this project, I used the ISO 27001 Risk Management Framework to  create a Risk Management Plan for the scenario described in the case study. I utilized my understanding of Risk Assessment Table, Risk Treatment Table, and Statement of Applicability to complete the Risk Management Plan. 
 **Cat's Company Vulnerabilities**: In this project, I analyzed the results of a vulnerability assessment scan, and wrote a vulnerability assessment report for the executive team. This report includes a detailed scan result, methodology, findings, risk assessment, and prioritized recommendations.  
